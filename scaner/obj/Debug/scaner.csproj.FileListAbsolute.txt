@@ -1,0 +1,6 @@
+E:\FCIH\سنة ثالثة\ترم تانى\compilar\scaner\scaner\bin\Debug\scaner.exe.config
+E:\FCIH\سنة ثالثة\ترم تانى\compilar\scaner\scaner\bin\Debug\scaner.exe
+E:\FCIH\سنة ثالثة\ترم تانى\compilar\scaner\scaner\bin\Debug\scaner.pdb
+E:\FCIH\سنة ثالثة\ترم تانى\compilar\scaner\scaner\obj\Debug\scaner.exe
+E:\FCIH\سنة ثالثة\ترم تانى\compilar\scaner\scaner\obj\Debug\scaner.pdb
+E:\FCIH\سنة ثالثة\ترم تانى\compilar\scaner\scaner\obj\Debug\scaner.csprojResolveAssemblyReference.cache
